@@ -40,8 +40,8 @@ const Banner = () => {
                     />
 
                     <Carousel.Caption>
-                        <h3>Third slide label</h3>
-                        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                        <h3>“By discovering nature, you discover yourself.”</h3>
+                        <p>~Maxime Lagacé</p>
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>
