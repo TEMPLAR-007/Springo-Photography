@@ -1,0 +1,39 @@
+.form-box {
+    max-width: 500px;
+    margin: 100px auto;
+    padding: 50px;
+    color: black;
+    border: 5px solid #f2f2f2;
+    border-radius: 10px;
+    box-shadow: 2px 20px 20px 1px rgba(9, 102, 45, 0.44);
+}
+
+.form-submit {
+
+    background-color: rgba(2, 151, 12, 0.4);
+
+}
+
+.form-submit:hover {
+    background-color: rgba(2, 151, 12, 0.6);
+}
+
+.form-link {
+    color: #FF9900;
+    text-decoration: none;
+}
+
+h1 {
+    font-size: 40px;
+    font-weight: 600;
+}
+
+h1,
+.from-p {
+    text-align: center;
+}
+
+input,
+textarea {
+    width: 100%;
+}

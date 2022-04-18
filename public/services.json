@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Morning Fog",
+        "price": "$250/ M $450/ L $700",
+        "description": "Early mornings provide some of the thickest fog conditions up in the mountains. With the entire view of Moraine Lake covered, all that's visible is the glacier fed water below. The magic of this photo comes in knowing what lies behind the veil - the most beautiful landscape you’ve ever laid eyes on. Knowing it’s there is almost as beautiful as being able to see it. Look closely and you’ll spot a couple slowly drifting through the icy waters in an iconic red Canadian canoe.",
+        "img": "https://i.ibb.co/P9HWGkw/magnus-jonasson-Og-T0-Lj-MJDk-unsplash.jpg"
+    },
+    {
+        "id": 2,
+        "name": "The Bucket Shot",
+        "price": "$250/ M $450/ L $700",
+        "description": "Arguably, Peter’s most popular photo to date. With a small window to pull it off, Peter flew across the country on a whim that conditions would be exactly as needed to pull off his bucket shot. Later, this same photo from the same year on a previous visit would be minted on to Canadian Currency.",
+        "img": "https://i.ibb.co/FHcTQJC/2y-kang-x-KC9nw-Gh-ZAg-unsplash.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Strength In Numbers",
+        "price": "$250/ M $450/ L $700",
+        "description": "Often struck by a popular view or the ‘obvious’ shot, beauty goes unnoticed even if it’s directly behind you. In this case, that is what makes this photo so special. Immediately behind the iconic view of Moraine Lake lies a vast valley of endless trees. A lone tree stands tall amongst the rest, reminiscent of a general about to lead a valley of warriors to battle. What will increase your chances? Strength in numbers.",
+        "img": "https://i.ibb.co/zP569cs/kai-wenzel-dy-GWrm-J-i4-E-unsplash.jpg"
+    }
+]

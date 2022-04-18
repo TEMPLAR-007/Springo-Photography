@@ -1,0 +1,30 @@
+[
+    {
+        "img": "https://i.ibb.co/HdV4C5H/player-1.png",
+        "id": 1,
+        "name": "Jimi",
+        "reviews": "Good value and quick turnaround for professional photos required to sell on Amazon. Also used on our website. I'm going back for the next shoot!",
+        "rating": 4.7
+    },
+    {
+        "img": "https://i.ibb.co/6vjzH8V/player-2.png",
+        "id": 2,
+        "name": "Daimen",
+        "reviews": "Many thanks for the photos, they are brilliant and better than I imagined.Brilliant to work with and your flexible approach and willingness was truly excellent.",
+        "rating": 5
+    },
+    {
+        "img": "https://i.ibb.co/DMGkyLx/player-3.png",
+        "id": 3,
+        "name": "Blowver",
+        "reviews": "I am so glad that I found Springo Photography! This is my 3rd time using them and their work is INCREDIBLE. Fan of him and going back for the next shoot!",
+        "rating": 4.8
+    },
+    {
+        "img": "https://i.ibb.co/K2pQzvp/player-4.png",
+        "id": 4,
+        "name": "Rajin",
+        "reviews": "Quick turn around, great photos and responsive during the shoot to make sure I was happy. Can't ask for more.Already using his photo in personal work",
+        "rating": 4.5
+    }
+]
