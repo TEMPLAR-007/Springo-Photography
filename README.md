@@ -6,8 +6,6 @@ https://dreamy-creponne-53fe99.netlify.app/
 
 
 
-
-
 ### `Home and review tab`
 
 Added three service items in main page "Home" tab and all reviews part in same tab
