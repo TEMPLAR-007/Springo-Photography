@@ -33,10 +33,9 @@ const CheckOut = () => {
                 </Form.Group>
 
                 <Form.Group className="mb-3 text-start" controlId="formBasicName">
-                    <Form.Label>Phone number</Form.Label>
+                    <Form.Label>Phone Number</Form.Label>
                     <Form.Control type="number" placeholder="Phone number" required />
                 </Form.Group>
-
                 <input className="btn text-dark fw-bold form-submit" type="submit" value="Submit" />
 
                 <ToastContainer />
