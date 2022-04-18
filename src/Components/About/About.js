@@ -21,7 +21,7 @@ const About = () => {
                                     <p>"Can I say something? Um, I'm the type of person that if you ask me a question and I don't know the answer, I'm gonna tell you that I don't know. But I bet you what, I know how to find the answer and <span className='text-danger'>I will find the answer</span>."</p>
                                 </blockquote>
                                 <figcaption class="blockquote-footer mt-3">
-                                    Chris Gardner from <cite title="Source Title">The Pursuit of Happyness</cite>
+                                    Chris Gardner from <cite title="Source Title">"The Pursuit of Happyness"</cite>
                                 </figcaption>
                             </figure>
 
