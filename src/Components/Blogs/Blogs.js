@@ -8,7 +8,7 @@ const Blogs = () => {
 
             <Accordion defaultActiveKey="0" flush>
                 <Accordion.Item eventKey="0">
-                    <Accordion.Header>Difference between authorization and authentication</Accordion.Header>
+                    <Accordion.Header>Difference between authorization and authentication?</Accordion.Header>
                     <Accordion.Body className='text-start'>
                         Authentication is proofing the user is, who they claim to be. Usually with a combination of username and password. Authorisation is giving rights to an authenticated user. These are two separate processes. One is finding out who the user is and the second is what the user is allowed to do.
                         Simply put, authentication is the process of verifying who someone is, whereas authorization is the process of verifying what specific applications, files, and data a user has access to. The situation is like that of an airline that needs to determine which people can come on board.
