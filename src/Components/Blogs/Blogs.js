@@ -48,6 +48,7 @@ const Blogs = () => {
                     </Accordion.Body>
                 </Accordion.Item>
             </Accordion>
+
         </div>
     );
 };

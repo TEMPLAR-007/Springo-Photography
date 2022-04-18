@@ -16,8 +16,8 @@ const Banner = () => {
                         alt="First slide"
                     />
                     <Carousel.Caption>
-                        <h1>First slide label</h1>
-                        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                        <h3>“When words become unclear, I shall focus with photographs. When images become inadequate, I shall be content with silence.”</h3>
+                        <p>~Ansel Adams</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
