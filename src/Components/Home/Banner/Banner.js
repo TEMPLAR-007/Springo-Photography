@@ -16,8 +16,8 @@ const Banner = () => {
                         alt="First slide"
                     />
                     <Carousel.Caption>
-                        <h3>“When words become unclear, I shall focus with photographs. When images become inadequate, I shall be content with silence.”</h3>
-                        <p>~Ansel Adams</p>
+                        <h3>“Colors are the smiles of nature.”</h3>
+                        <p>~Leigh Hunt</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -28,8 +28,8 @@ const Banner = () => {
                     />
 
                     <Carousel.Caption>
-                        <h3>Second slide label</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        <h3>“Landscape photography is the supreme test of the photographer – and often the supreme disappointment.”</h3>
+                        <p>~Ansel Adams</p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
